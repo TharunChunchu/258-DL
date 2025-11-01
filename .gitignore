@@ -1,0 +1,5 @@
+create_commits.py
+__pycache__/
+*.pyc
+*.log
+.DS_Store
