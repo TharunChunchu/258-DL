@@ -1,0 +1,13 @@
+flask
+flask-cors
+opencv-python
+numpy
+pillow
+werkzeug
+torch
+torchvision
+scikit-learn
+matplotlib
+tqdm
+mtcnn
+
